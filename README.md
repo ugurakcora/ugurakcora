@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/uguurakcora" target="blank"><img src="https://img.shields.io/twitter/follow/uguurakcora?logo=twitter&style=for-the-badge" alt="uguurakcora" /></a> </p>
 
-- 🌱 I’m currently learning **React JS & Next JS**
+- 🌱 I’m currently learning **React JS & Next JS && React Native**
 
 - 📫 How to reach me **uakcora2@gmail.com**
 
