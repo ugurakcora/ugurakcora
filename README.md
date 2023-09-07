@@ -9,6 +9,7 @@
 
 - 🌱 I’m currently learning **React JS & Next JS & React Native**
 
+
 - 📫 How to reach me **uakcora2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
